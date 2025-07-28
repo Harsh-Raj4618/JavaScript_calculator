@@ -19,12 +19,12 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript. This calcu
 ## 📂 Folder Structure
 - Main branch
   - html file
-    - calculator.html   
+    - calculator.html    # Main HTML structure
   - css file
-    - calculator.css   
+    - calculator.css     # Styling for calculator layout and theme
   - js file
-    - calculator.js   
-- readme.md
+    - calculator.js      # Calculator logic and event handling
+  - readme.md            # Project documentation
 
 
 ## 💻 Getting Started
